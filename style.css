@@ -1,0 +1,38 @@
+body{
+    font-family: 'Kanit', sans-serif;
+    background-color: rgb(142, 181, 225);
+    color:rgb(33, 42, 73)
+}
+
+.header_div{
+    background: white;
+    color:rgb(69, 124, 172);
+}
+
+.header_div p{
+    font-family: 'Oxygen', sans-serif;
+    color: rgb(58, 73, 116);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Oxygen', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color:rgb(58, 73, 116);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 3px 3px 3px rgb(204, 204, 204)
+}
